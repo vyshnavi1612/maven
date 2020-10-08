@@ -1,6 +1,5 @@
 # MavenCounterWebApp
-MavenCounterWebApp
-Trigerring job by SCM polling Test
+MavenCounterWebAppTrigerring job by SCM polling Test
 github-webhook/
 
 commit id change
